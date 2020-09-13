@@ -1,5 +1,7 @@
 ![A dummy researcher.](https://res.cloudinary.com/dphwvlm3x/image/upload/v1599978112/final_readme_tz4uih.jpg)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atoxcode&count_private=true)
+
 
 
 <!--
