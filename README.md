@@ -1,6 +1,9 @@
-### Hi there 👋
+![A dummy researcher.](https://res.cloudinary.com/dphwvlm3x/image/upload/v1599978112/final_readme_tz4uih.jpg)
+
+
 
 <!--
+### Hi there 👋
 **atoxcode/atoxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
