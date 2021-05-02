@@ -1,4 +1,7 @@
-![A dummy researcher.](https://res.cloudinary.com/dphwvlm3x/image/upload/v1599978112/final_readme_tz4uih.jpg)
+### Hi, I'm defry 👋
+I'm a student and have a big interest in machine learning. 
+
+![A dummy researcher.](https://raw.githubusercontent.com/melanietosik/melanietosik.github.io/master/files/38.png)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atoxcode&count_private=true)
 
