@@ -3,7 +3,7 @@ I'm a student and have a big interest in machine learning.
 
 ![A dummy researcher.](https://raw.githubusercontent.com/melanietosik/melanietosik.github.io/master/files/38.png)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atoxcode&count_private=true).  ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atoxcode&langs_count=8&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atoxcode&count_private=true)  ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atoxcode&langs_count=8&layout=compact)
 
 
 
