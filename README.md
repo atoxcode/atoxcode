@@ -1,4 +1,4 @@
-### Hi, I'm defry 👋
+### Hi internet, I'm defry 👋
 I'm a student and have a big interest in machine learning. 
 
 ![A dummy researcher.](https://raw.githubusercontent.com/melanietosik/melanietosik.github.io/master/files/38.png)
