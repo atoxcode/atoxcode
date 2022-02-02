@@ -1,5 +1,8 @@
-### Hi internet, I'm defry 👋
-I'm a student and have a big interest in machine learning. 
+### What's up internet, I'm defry 👋
+Nice to meet you! Nothing special in my repo, but you can use it and let me many advice from you.
+
+Happy learning and keep in touch.
+
 
 ![A dummy researcher.](https://raw.githubusercontent.com/melanietosik/melanietosik.github.io/master/files/38.png)
 
