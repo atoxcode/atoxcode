@@ -1,8 +1,6 @@
 ### What's up internet, I'm defry 👋
 Nice to meet you! Nothing special in my repo, but you can use it and give me many advice from you.
 
-NB: I'm not interested in responses all about hate speech.
-
 Happy learning and keep in touch.
 
 
