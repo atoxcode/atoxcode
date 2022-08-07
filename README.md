@@ -1,4 +1,4 @@
-### What's up internet, I'm defry 👋
+### What's up internet, I'm defry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 Happy learning and keep in touch.
 
