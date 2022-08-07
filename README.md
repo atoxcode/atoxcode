@@ -18,7 +18,7 @@ Happy learning and keep in touch.
  <img src="http://github-readme-streak-stats.herokuapp.com?user=atoxcode&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
 </div>
 
-
+<img src="Rainbow.gif" width="100%">
 <!--
 ![Anurag's github stats]
 (https://github-readme-stats.vercel.app/api?username=atoxcode&count_private=true)!
