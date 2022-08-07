@@ -1,13 +1,31 @@
 ### What's up internet, I'm defry 👋
-Nice to meet you! Nothing special in my repo, but you can use it and give me many advice from you.
 
 Happy learning and keep in touch.
 
+<img src="Rainbow.gif" width="100%">
 
 ![A dummy researcher.](https://raw.githubusercontent.com/melanietosik/melanietosik.github.io/master/files/38.png)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atoxcode&count_private=true)![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atoxcode&langs_count=8&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atoxcode&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atoxcode&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
+</div>
+
+<div align="center">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=atoxcode&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
+</div>
+
+
+<!--
+![Anurag's github stats]
+(https://github-readme-stats.vercel.app/api?username=atoxcode&count_private=true)!
+
+[My GitHub Language Stats]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=atoxcode&langs_count=8&layout=compact)
+-->
 
 
 
