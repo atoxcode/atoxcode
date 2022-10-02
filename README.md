@@ -1,7 +1,7 @@
 # What's up internet, I'm defry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 ### See My portfolio <a href="https://defryhamdhana.unimal.ac.id/" target="_blank">here!</a>
- Happy learning and keep in touch.
+ Happy programming dude! Keep in happiness and peace.
 
 <img src="Rainbow.gif" width="100%">
 
