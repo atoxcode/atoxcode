@@ -1,7 +1,6 @@
-# Hello, everyone; welcome to this repository. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# Hi, good morning! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 ### To see my portfolio please click this link: <a href= "https://defryhamdhana.unimal.ac.id/" target="_blank">here!</a>
-Thanks for coming...
 
 <img src="Rainbow.gif" width="100%">
 
